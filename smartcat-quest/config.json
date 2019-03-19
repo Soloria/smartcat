@@ -1,0 +1,8 @@
+﻿{
+  "schedules_page": {
+    "transport_type": "Электричка",
+    "departure_location": "Екатеринбург",
+    "arrivals_location": "Каменск-Уральский",
+    "departure_date": "Суббота"
+  }
+}
