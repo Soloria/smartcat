@@ -6,7 +6,7 @@
     using OpenQA.Selenium.Chrome;
 
 
-    class SessionManager
+    public static class SessionManager
     {
         private static IWebDriver _driver;
 
