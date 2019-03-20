@@ -21,7 +21,7 @@
 
         public static void Close() => _driver?.Quit();
         
-        public static string Path = "https://yandex.ru/";
+        public static readonly string Path = "https://yandex.ru/";
 
         public static IWebDriver getDriver() => _driver;
     }
