@@ -11,4 +11,4 @@
 ### transport_types
 Available transport types - `Самолет`, `Поезд`, `Электричка`, `Автобус`
 ### departure_date
-Date format is week day or day number + month, example - `23 марта`
+Date format is week day or day number + month, example - `23 марта` or `Суббота`
