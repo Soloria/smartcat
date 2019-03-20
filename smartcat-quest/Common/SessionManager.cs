@@ -19,11 +19,8 @@
             _driver.Url = text;
         }
 
-        public static void Close()
-        {
-            _driver.Quit();
-        }
-
+        public static void Close() => _driver.Quit();
+        
         public static string Path = "https://yandex.ru/";
 
         public static IWebDriver getDriver() => _driver;
